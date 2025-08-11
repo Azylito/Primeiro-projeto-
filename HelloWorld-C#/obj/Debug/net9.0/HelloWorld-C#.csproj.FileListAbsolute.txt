@@ -1,0 +1,14 @@
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\bin\Debug\net9.0\HelloWorld-C#.exe
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\bin\Debug\net9.0\HelloWorld-C#.deps.json
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\bin\Debug\net9.0\HelloWorld-C#.runtimeconfig.json
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\bin\Debug\net9.0\HelloWorld-C#.dll
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\bin\Debug\net9.0\HelloWorld-C#.pdb
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\HelloWorld-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\HelloWorld-C#.AssemblyInfoInputs.cache
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\HelloWorld-C#.AssemblyInfo.cs
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\HelloWorld-C#.csproj.CoreCompileInputs.cache
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\HelloWorld-C#.dll
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\refint\HelloWorld-C#.dll
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\HelloWorld-C#.pdb
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\HelloWorld-C#.genruntimeconfig.cache
+C:\Users\timbo\OneDrive\Área de Trabalho\Meus Jogos e outras coisas\HelloWorld-C#\obj\Debug\net9.0\ref\HelloWorld-C#.dll
